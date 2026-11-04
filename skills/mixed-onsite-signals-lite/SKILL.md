@@ -78,9 +78,9 @@ Also count:
 - Anything that isn't about this business: industry stats, general advice, how-to content, market data, claims about competitors. A partner's facts (for example a platform's number of users) count only when stated as a feature of the business's own offering; if you include one, say why.
 - The same fact in different words ("6 months" and "180 days", "since 2015" and "10+ years" when that's still true)
 - Real differences that are labeled: different sizes, plans, tiers, loan programs or regions with different prices, rates or terms; a sale price next to a crossed-out regular price; a limited-time offer that says so; a bundle's "worth" price that adds up its labeled extras
-- Ranges and their parts: "loans from $100k to $5M" and "loans up to $5M" agree
+- Ranges and their parts: "loans from 100,000 to 5 million dollars" and "loans up to 5 million dollars" agree
 - Rounding that doesn't change the meaning ("over 10,000 customers" and "10,000+ customers")
-- Numbers that are clearly dated and say so ("in 2023 we funded $50M"), unless the site presents an old number as current somewhere else
+- Numbers that are clearly dated and say so ("in 2023 we funded 50 million dollars"), unless the site presents an old number as current somewhere else
 - Live numbers from a widget (reviews, rates fed from another system) that drift slightly between places. A hard-coded number that is far behind the live one does count.
 
 If you're not sure a difference is real, include it in the table and say why you're unsure, but keep it out of "Fix these first."
